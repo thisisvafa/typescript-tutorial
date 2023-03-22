@@ -1,0 +1,1 @@
+const userName: string = 69;
